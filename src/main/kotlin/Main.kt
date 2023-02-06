@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    val fullname = "Grace Wambui"
+    val fullName = "Grace Wambui"
     var age = 25
     var phonenumber = "0740348281"
     var weightInKg = 55
