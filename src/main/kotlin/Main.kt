@@ -1,12 +1,22 @@
 fun main(args: Array<String>) {
     val fullName = "Grace Wambui"
-    var age = 25
-    var phonenumber = "0740348281"
-    var weightInKg = 55
-    val kenyan: Boolean = true
-    var notkenyan: Boolean = false
+    println(fullName)
 
-    println("fullname")
+    var age = 25
+    println(age)
+
+    var phoneNumber = "0740348281"
+    println(phoneNumber)
+
+    var weightInKg = 55
+    println(weightInKg )
+
+    val kenyan: Boolean = true
+    println(kenyan)
+
+    var notkenyan: Boolean = false
+    println(notkenyan )
+
 
 
 }
